@@ -1,2 +1,2 @@
 # Playlist_Porter
-this project contains a script which converts spotify playlist into youtube music playlist
+This project contains a script that converts a Spotify playlist into a youtube music playlist
